@@ -67,7 +67,7 @@ Hey.. After 5.2s. But I will stop the timer!
 ### How to compile sample program?
 
 ```bash
-g++ sample.cpp -std=c++17 -pthread
+g++ sample.cpp -std=c++14 -pthread
 ```
 
 ### License
